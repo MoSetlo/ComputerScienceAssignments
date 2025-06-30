@@ -5,7 +5,7 @@
 This C++ project emulates the Unix command "wc" allowing the user to provide text input ,either through file output redirection or console input. The user will then receive the line count, word count and character count from the input text. Extra functionality has been provided to count the frequency of characters and display these characters along with their respective frequency.
 
 
-## Java Classes
+## C++ Classes
 
 Included in this project are two cpp files and one header file. Their name and function can be described as follows: 
 
